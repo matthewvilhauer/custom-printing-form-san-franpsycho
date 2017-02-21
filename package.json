@@ -1,0 +1,28 @@
+{
+  "name": "san-franpsycho-custom-printing",
+  "version": "1.0.0",
+  "description": "Custom printing form for San Frapsycho.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matthewvilhauer/custom-printing-form-san-franpsycho.git"
+  },
+  "keywords": [
+    "San",
+    "Franpsycho",
+    "form"
+  ],
+  "author": "Matthew Vilhauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewvilhauer/custom-printing-form-san-franpsycho/issues"
+  },
+  "homepage": "https://github.com/matthewvilhauer/custom-printing-form-san-franpsycho#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "nodemon": "^1.11.0"
+  }
+}
